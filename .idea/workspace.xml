@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eac3163-1297-4ae0-b3fe-cc257357dcc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/judy for fun.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/judy for fun/first_method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/judy for fun/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/judy for fun/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/judy for fun/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +18,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="RMN" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="0f70b655bd658a861eb561321d09318de37d20a1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectId" id="28F5g8vDMV85DQCBQ9jJIViWP0z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,38 +82,112 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650799601155</updated>
-      <workItem from="1650799605584" duration="2443000" />
+      <workItem from="1650799605584" duration="4594000" />
     </task>
+    <task id="LOCAL-00001" summary="firstLogic">
+      <created>1650803164656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650803164656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstLogic" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstLogic" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Notifications" timestamp="1650802981593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1650802981593" />
     <state x="196" y="0" key="#Project_Structure" timestamp="1650799669254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="196" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1650799669254" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1650801520922">
+    <state x="406" y="12" key="CommitChangelistDialog2" timestamp="1650803163961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650801520922" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1650801520922">
+    <state x="406" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1650803163961" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1650803907608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1650801520922" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1650801520922">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1650803907608" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1650803067690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1650801520922" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1650801520922">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650803067690" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1650803067689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1650801520922" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1650802040372">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1650803067689" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1650803067689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1650802040372" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1650803067689" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1650803067690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1650803067690" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1650803849459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1650803849459" />
+    <state x="578" y="320" key="git4idea.ui.GitResetDialog" timestamp="1650803590132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="320" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1650803590132" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1650799875708">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
